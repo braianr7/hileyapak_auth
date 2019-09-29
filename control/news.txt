@@ -1,0 +1,2 @@
++Loader paylaşıldı
+//html kullanabilirsin

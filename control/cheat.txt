@@ -1,0 +1,8 @@
+{
+  "cheats": [
+{"game": "CSGO", "server": "ALL", "state": "Undetected", "cheatname": "PPHUD Protected", "version": "v1.0", "last": "21.06.19", "process": "csgo", "logolink": "https://raw.githubusercontent.com/zahttz/zahtinbb/master/icons/csgo.png", "type": "native", "link": "http://www.maveracheats.com/authmv/kek/cistirgopipihud.txt", "topic": "https://www.maveracheats.com/threads/cs-go-pphud-free-hack-ragebot-legitbot-visuals-skins-misc-and-more.236/", "about": "Menu key : INSERT \n FEATURES : \n -Ragebot \n -legit \n -Visuals \n -Skins \n -Misc", "exe": "false", "vip": "true"},
+{"game": "Battlefield 1", "server": "ALL", "state": "Undetected", "cheatname": "PPHUD Protected", "version": "v1.0", "last": "21.06.19", "process": "csgo", "logolink": "https://raw.githubusercontent.com/zahttz/zahtinbb/master/icons/bf1icon.png","type": "native", "link": "http://www.maveracheats.com/authmv/kek/cistirgopipihud.txt", "topic": "https://www.maveracheats.com/threads/cs-go-pphud-free-hack-ragebot-legitbot-visuals-skins-misc-and-more.236/", "about": "Menu key : INSERT", "exe": "false", "vip": "true"},
+{"game": "PUBG Lite", "server": "ALL", "state": "Undetected", "cheatname": "PPHUD Protected", "version": "v1.0", "last": "21.06.19", "process": "csgo", "logolink": "https://raw.githubusercontent.com/zahttz/zahtinbb/master/icons/pubglite.png", "type": "native", "link": "http://www.maveracheats.com/authmv/kek/cistirgopipihud.txt", "topic": "https://www.maveracheats.com/threads/cs-go-pphud-free-hack-ragebot-legitbot-visuals-skins-misc-and-more.236/", "about": "Menu key : INSERT \n FEATURES : \n -Aimbot \n -Chams \n -Box ESP", "exe": "false", "vip": "true"}
+
+]
+}
